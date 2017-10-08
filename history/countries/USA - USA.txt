@@ -196,10 +196,10 @@ set_politics = {
 		popularity = 1
 	}
 	reactionary = { 
-		popularity = 7
+		popularity = 6
 	}
 	authoritarian_democracy = { 
-		popularity = 2
+		popularity = 3
 	}
 	leninism = { 
 		popularity = 1
@@ -226,13 +226,13 @@ set_politics = {
 		popularity = 0
 	}
 	religious = { 
-		popularity = 0
+		popularity = 0.08
 	}
 	anarchism = { 
 		popularity = 0
 	}
 	christian_democracy = { 
-		popularity = 4
+		popularity = 3.92
 	}
 	revisionism = { 
 		popularity = 0
@@ -269,7 +269,7 @@ set_autonomy = {
 		parties = {
 		
 	social_liberal = { 
-		popularity = 48
+		popularity = 47
 	}
 	national_socialism = {
 		popularity = 0
@@ -281,10 +281,10 @@ set_autonomy = {
 		popularity = 0
 	}
 	market_liberal = { 
-		popularity = 5
+		popularity = 4
 	}
 	conservative = { 
-		popularity = 34
+		popularity = 36.5
 	}
 	progressive = { 
 		popularity = 0
@@ -293,19 +293,19 @@ set_autonomy = {
 		popularity = 1
 	}
 	reactionary = { 
-		popularity = 8
+		popularity = 6
 	}
 	authoritarian_democracy = { 
-		popularity = 0
+		popularity = 1
 	}
 	leninism = { 
 		popularity = 0
 	}
 	fascism = { 
-		popularity = 0
+		popularity = 0.1
 	}
 	nationalism = { 
-		popularity = 0
+		popularity = 0.9
 	}
 	democratic_nationalism = { 
 		popularity = 0
@@ -373,7 +373,7 @@ create_country_leader = {
 	expire = "1965.1.1"
 	ideology = marxism
 	traits = {
-		
+		dislikes_italy
 	}
 }
 
